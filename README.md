@@ -11,7 +11,7 @@ Also, mount a webcam on another stepper and a servo so I can look around with it
 
 Yes, I know that [RTCbot](https://github.com/dkumor/rtcbot) exists. But I want to design this myself, as a project. 
 
-Parts list: [HERE](https://sheets.google.com)
+Parts list: [HERE](https://docs.google.com/spreadsheets/d/1hJXBGtgOUzoiMhmMpQXa8KYEWCtUkvLedHiXm8dd3HM/edit#gid=0)
 
 ### Progress log / roadmap
 
@@ -30,5 +30,6 @@ Parts list: [HERE](https://sheets.google.com)
 
   - Capture input from an xbox controller on the client side
     - I just think it'd be better than having keyboard input
+    - The `inputs` module should be perfect for this, but I did some initial testing and can't get wireless controllers to connect to it... They work fine in everything else! Very annoying.
   
   - [Long Term] Bundle the whole thing up into a browser
